@@ -1,0 +1,10 @@
+services:
+  - type: web
+    name: sampark-server
+    env: node
+    root: server
+    buildCommand: npm install
+    startCommand: npm start
+    envVars:
+      - key: MONGO_URI
+        sync: false
