@@ -1,0 +1,5 @@
+
+> sampark-demo-server@1.0.0 start
+> node src/index.js
+
+Sampark server running on http://localhost:5000
