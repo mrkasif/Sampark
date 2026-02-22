@@ -1,15 +1,15 @@
 {
   "files": {
     "main.css": "/Sampark/static/css/main.36314544.css",
-    "main.js": "/Sampark/static/js/main.9d1b45f5.js",
+    "main.js": "/Sampark/static/js/main.f2a97821.js",
     "static/js/453.eca5f793.chunk.js": "/Sampark/static/js/453.eca5f793.chunk.js",
     "index.html": "/Sampark/index.html",
     "main.36314544.css.map": "/Sampark/static/css/main.36314544.css.map",
-    "main.9d1b45f5.js.map": "/Sampark/static/js/main.9d1b45f5.js.map",
+    "main.f2a97821.js.map": "/Sampark/static/js/main.f2a97821.js.map",
     "453.eca5f793.chunk.js.map": "/Sampark/static/js/453.eca5f793.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.36314544.css",
-    "static/js/main.9d1b45f5.js"
+    "static/js/main.f2a97821.js"
   ]
 }
